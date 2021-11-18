@@ -1,0 +1,47 @@
+h1{
+    font-family: sans-serif;
+    font-weight: 500;
+    
+}
+body{
+    background : linear-gradient(90deg,  pink , lightblue);
+}
+input{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-color: grey;
+    padding: 8px;
+    border-width: 2px;
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 300px;
+    
+    
+}
+
+button{
+    border-color: grey;
+    margin: auto;
+    display: inline;
+    
+
+}
+div{
+    display: inline;
+    
+}
+h3{
+    float: right;
+    width: 500px;
+    height: 500px;
+}
+footer{
+    background-color: peru;
+    
+}
